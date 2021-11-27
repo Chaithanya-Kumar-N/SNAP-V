@@ -8,9 +8,9 @@ Files modified-
 2) next_2_lines.stlb_pref added to implement IP based prefetcher with degree=2
 3) bug fixes in ooo_cpu.cc when tlb prefetchers are used
 
-# Contributions-
-Chaithanya Kumar(190050071) - Enhancements , Presentation
-Vishnu Vardhan(190050130) - Enhancements
-Pranay Varma(190050120) - Presentation
-Saathwick Reddy(190050100) - Memory access patterns
-Amith Varma(190050099) - Slides
+# Contributions-  
+Chaithanya Kumar(190050071) - Enhancements , Presentation  <br/>
+Vishnu Vardhan(190050130) - Enhancements  <br/>
+Pranay Varma(190050120) - Presentation   <br/>
+Saathwick Reddy(190050100) - Memory access patterns  <br/>
+Amith Varma(190050099) - Slides  <br/>
