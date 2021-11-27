@@ -10,8 +10,12 @@ Files modified-
 
 # Contributions-  
 -  Enhancements
-Chaithanya Kumar(190050071) - Enhancements , Presentation  <br/>
-Vishnu Vardhan(190050130) - Enhancements  <br/>
-Pranay Varma(190050120) - Presentation , Memory   <br/>
-Saathwick Reddy(190050100) - Memory access patterns  <br/>
-Amith Varma(190050099) - Slides  <br/>
+  -   Chaithanya Kumar(190050071)
+  -   Vishnu Vardhan
+  -   Pranay Varma(190050120)
+-  Presentation and slides
+  -  Amith Varma(190050099)
+  -  Pranay Varma(190050120)
+-  Memory access patterns
+  -  Saathwick Reddy(190050100)
+
