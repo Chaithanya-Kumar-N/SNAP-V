@@ -9,8 +9,9 @@ Files modified-
 3) bug fixes in ooo_cpu.cc when tlb prefetchers are used
 
 # Contributions-  
+** Enhancements
 Chaithanya Kumar(190050071) - Enhancements , Presentation  <br/>
 Vishnu Vardhan(190050130) - Enhancements  <br/>
-Pranay Varma(190050120) - Presentation   <br/>
+Pranay Varma(190050120) - Presentation , Memory   <br/>
 Saathwick Reddy(190050100) - Memory access patterns  <br/>
 Amith Varma(190050099) - Slides  <br/>
